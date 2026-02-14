@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Dangerous Game",
+  "base_artist": "LGYankees",
+  "createdAt": "2026-02-14T14:41:23.810046Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Most Dangerous Game",
+      "artist": "Laaz Rockit",
+      "has_synced": false,
+      "path": "select/01_Most_Dangerous_Game_Laaz_Rockit.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dangerous Game",
+      "artist": "Kylie Minogue",
+      "has_synced": true,
+      "path": "select/02_Dangerous_Game_Kylie_Minogue.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dangerous Game",
+      "artist": "3 Doors Down",
+      "has_synced": false,
+      "path": "select/03_Dangerous_Game_3_Doors_Down.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Dangerous Game",
+      "artist": "Tommy Shaw",
+      "has_synced": true,
+      "path": "select/04_Dangerous_Game_Tommy_Shaw.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Is a Dangerous Game",
+      "artist": "Millie Jackson",
+      "has_synced": false,
+      "path": "select/05_Love_Is_a_Dangerous_Game_Millie_Jackson.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Dangerous Game",
+      "artist": "Bronz",
+      "has_synced": false,
+      "path": "select/06_Dangerous_Game_Bronz.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Dangerous Game",
+      "artist": "Chaos Magic",
+      "has_synced": false,
+      "path": "select/07_Dangerous_Game_Chaos_Magic.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Dangerous Game - Live",
+      "artist": "Kylie Minogue",
+      "has_synced": false,
+      "path": "select/08_Dangerous_Game_-_Live_Kylie_Minogue.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Dangerous Game",
+      "artist": "3 Doors Down",
+      "has_synced": true,
+      "path": "select/09_Dangerous_Game_3_Doors_Down.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "It's A Dangerous Game",
+      "artist": "Anthony Warlow feat. Linda Eder",
+      "has_synced": true,
+      "path": "select/10_It's_A_Dangerous_Game_Anthony_Warlow_feat._Linda_Eder.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It's a Dangerous Game",
+      "artist": "Anthony Warlow",
+      "has_synced": true,
+      "path": "select/11_It's_a_Dangerous_Game_Anthony_Warlow.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Dangerous Game",
+      "artist": "MCB 77",
+      "has_synced": false,
+      "path": "select/12_Dangerous_Game_MCB_77.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Dangerous Game (Original Mix)",
+      "artist": "MCB 77",
+      "has_synced": false,
+      "path": "select/13_Dangerous_Game_(Original_Mix)_MCB_77.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Dangerous Game",
+      "artist": "Narnia",
+      "has_synced": true,
+      "path": "select/14_Dangerous_Game_Narnia.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Dangerous Game",
+      "artist": "LGYankees",
+      "has_synced": false,
+      "path": "select/pl_01_Dangerous_Game_LGYankees.txt"
+    }
+  ]
+}
